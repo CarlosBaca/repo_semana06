@@ -1,0 +1,137 @@
+[
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "aporte_Alexander",
+        "description": "aporte_Alexander",
+        "peekOfCode": "nombre = \"Alexander\"\nusuario_github = \"alexanderpatcar1234-ctrl\"\naporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_Alexander",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_github",
+        "kind": 5,
+        "importPath": "aporte_Alexander",
+        "description": "aporte_Alexander",
+        "peekOfCode": "usuario_github = \"alexanderpatcar1234-ctrl\"\naporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_Alexander",
+        "documentation": {}
+    },
+    {
+        "label": "aporte",
+        "kind": 5,
+        "importPath": "aporte_Alexander",
+        "description": "aporte_Alexander",
+        "peekOfCode": "aporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_Alexander",
+        "documentation": {}
+    },
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "aporte_arnoldfuentes",
+        "description": "aporte_arnoldfuentes",
+        "peekOfCode": "nombre = \" Arnold Fuentes\"\nusuario_github = \"chelo\"\naporte = \"colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Nombre: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Aporte: \", aporte)",
+        "detail": "aporte_arnoldfuentes",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_github",
+        "kind": 5,
+        "importPath": "aporte_arnoldfuentes",
+        "description": "aporte_arnoldfuentes",
+        "peekOfCode": "usuario_github = \"chelo\"\naporte = \"colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Nombre: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Aporte: \", aporte)",
+        "detail": "aporte_arnoldfuentes",
+        "documentation": {}
+    },
+    {
+        "label": "aporte",
+        "kind": 5,
+        "importPath": "aporte_arnoldfuentes",
+        "description": "aporte_arnoldfuentes",
+        "peekOfCode": "aporte = \"colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Nombre: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Aporte: \", aporte)",
+        "detail": "aporte_arnoldfuentes",
+        "documentation": {}
+    },
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "aporte_carlosbaca",
+        "description": "aporte_carlosbaca",
+        "peekOfCode": "nombre = \" Carlos Baca\"\nusuario_github = \"CarlosBaca\"\naporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github:\",usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_carlosbaca",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_github",
+        "kind": 5,
+        "importPath": "aporte_carlosbaca",
+        "description": "aporte_carlosbaca",
+        "peekOfCode": "usuario_github = \"CarlosBaca\"\naporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github:\",usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_carlosbaca",
+        "documentation": {}
+    },
+    {
+        "label": "aporte",
+        "kind": 5,
+        "importPath": "aporte_carlosbaca",
+        "description": "aporte_carlosbaca",
+        "peekOfCode": "aporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github:\",usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_carlosbaca",
+        "documentation": {}
+    },
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "aporte_jhoelsaldivar",
+        "description": "aporte_jhoelsaldivar",
+        "peekOfCode": "nombre = \"Jhoel Saldivar\"\nusuario_github = \"JHOEL\"\naporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_jhoelsaldivar",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_github",
+        "kind": 5,
+        "importPath": "aporte_jhoelsaldivar",
+        "description": "aporte_jhoelsaldivar",
+        "peekOfCode": "usuario_github = \"JHOEL\"\naporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_jhoelsaldivar",
+        "documentation": {}
+    },
+    {
+        "label": "aporte",
+        "kind": 5,
+        "importPath": "aporte_jhoelsaldivar",
+        "description": "aporte_jhoelsaldivar",
+        "peekOfCode": "aporte = \"Colaboracion realizada durante la semana 8\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"GitHub: \", usuario_github)\nprint(\"Mensaje: \", aporte)",
+        "detail": "aporte_jhoelsaldivar",
+        "documentation": {}
+    },
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "aporte_madisonchirinos",
+        "description": "aporte_madisonchirinos",
+        "peekOfCode": "nombre = \"Alexander\"\nusuario_github = \"alexanderpatcar1234-ctrl\"\naporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_madisonchirinos",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_github",
+        "kind": 5,
+        "importPath": "aporte_madisonchirinos",
+        "description": "aporte_madisonchirinos",
+        "peekOfCode": "usuario_github = \"alexanderpatcar1234-ctrl\"\naporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_madisonchirinos",
+        "documentation": {}
+    },
+    {
+        "label": "aporte",
+        "kind": 5,
+        "importPath": "aporte_madisonchirinos",
+        "description": "aporte_madisonchirinos",
+        "peekOfCode": "aporte = \"Colaboración realizada durante la semana 08\"\nprint(\"===APORTE AL PROYECTO===\")\nprint(\"Estudiante: \", nombre)\nprint(\"Github: \", usuario_github)\nprint(\"Github: \", aporte)",
+        "detail": "aporte_madisonchirinos",
+        "documentation": {}
+    }
+]
